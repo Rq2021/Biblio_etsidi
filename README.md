@@ -1,15 +1,16 @@
 # Biblio_etsidi
 
-Se trata de una herramienta de gestión de cualquier biblioteca personal.
+* El proyecto consiste en un programa que permita gestionar cualquier biblioteca, incorporando las funciones elementales propias de este ámbito.
 
 ## Integrantes del equipo
 
-* Roberto Roncal España RQ2021
 * Lucía Marcos
 * Nerea Rodriguez
+* Roberto Roncal España RQ2021
 
 ## Objetivos del trabajo
 
 * Implementación de una herramienta útil de gestión de una biblioteca personal
-* Permitir al usuario el registro de entradas
-* Permitir al usuario la consulta, modificación y borrado de archivos
+* Permitir al usuario el etiquetado y registro de entradas
+* Permitir al usuario la consulta y filtrado de archivos
+* Permitir al usuario la modificación y borrado de archivos
