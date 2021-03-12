@@ -1,11 +1,13 @@
-# [Título del trabajo]
+# ["Biblio_etsidi"]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Se trata de una herramienta de gestión de cualquier biblioteca personal]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Roberto Roncal España, apellidos, y usuario GitHub de los integrantes del equipo.]
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[Herramienta de gestión de una biblioteca personal
+Permitir al usuario la entrada de libros
+]
