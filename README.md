@@ -1,4 +1,4 @@
-# Biblio_etsidi
+# Biblio_etsidiNO
 
 * El proyecto consiste en un programa que permita gestionar cualquier biblioteca, incorporando las funciones elementales propias de este ámbito.
 
