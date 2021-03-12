@@ -6,7 +6,7 @@
 
 * Lucía Marcos
 * Nerea Rodriguez
-* Roberto Roncal España RQ2021
+* Roberto Roncal España Rq2021
 
 ## Objetivos del trabajo
 
