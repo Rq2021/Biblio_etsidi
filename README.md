@@ -1,6 +1,6 @@
-# ["Biblio_etsidi"]
+# Biblio_etsidi
 
-[Se trata de una herramienta de gestión de cualquier biblioteca personal]
+Se trata de una herramienta de gestión de cualquier biblioteca personal.
 
 ## Integrantes del equipo
 
